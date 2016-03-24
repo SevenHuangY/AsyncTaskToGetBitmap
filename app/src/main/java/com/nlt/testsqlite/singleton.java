@@ -74,8 +74,6 @@ public class singleton
             {
                 e.printStackTrace();
             }
-
-
             return bmp;
         }
 
